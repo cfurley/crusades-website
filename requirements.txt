@@ -1,0 +1,14 @@
+Pages:
+  1. Home Page
+  2. Three Body Pages
+  3. More Information Page
+  4. References Pages
+
+Content:
+  - Three paragraphs (200 words) per page.
+  - One Image or Video on each page.
+  - One Video on the website.
+
+Citations:
+  - Nine total citations required.
+  - Four must be from the course textbook.
