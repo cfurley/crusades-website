@@ -1,7 +1,21 @@
+header {
+  background-color: blue;
+  text-align: center;
+  padding: 1rem;
+
+  h1 {
+    color: azure;
+  }
+
+  a {
+    color: greenyellow;
+  }
+}
+
 footer {
   background-color: blue;
   text-align: center;
-  margin-top: 5rem;
+  margin-top: 3rem;
   a {
     color: white;
   }
