@@ -1,3 +1,12 @@
+body {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-template-areas:
+    "header header"
+    "main aside"
+    "footer footer";
+}
+
 header {
   background-color: blue;
   text-align: center;
