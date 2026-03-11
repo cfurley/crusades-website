@@ -8,6 +8,7 @@ body {
 }
 
 header {
+  grid-area: header;
   background-color: blue;
   text-align: center;
   padding: 1rem;
@@ -21,7 +22,16 @@ header {
   }
 }
 
+main {
+  grid-area: main;
+}
+
+aside {
+  grid-area: aside;
+}
+
 footer {
+  grid-area: footer;
   background-color: blue;
   text-align: center;
   margin-top: 3rem;
