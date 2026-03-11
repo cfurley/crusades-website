@@ -12,11 +12,9 @@ header {
   background-color: blue;
   text-align: center;
   padding: 1rem;
-
   h1 {
     color: azure;
   }
-
   a {
     color: greenyellow;
   }
