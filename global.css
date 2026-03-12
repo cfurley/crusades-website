@@ -10,7 +10,7 @@ body {
     "footer footer";
 }
 
-header {
+.header {
   grid-area: header;
   background-color: blue;
   text-align: center;
@@ -29,11 +29,11 @@ main {
   grid-area: main;
 }
 
-aside {
+.aside {
   grid-area: aside;
 }
 
-footer {
+.footer {
   grid-area: footer;
   background-color: brown;
   text-align: center;
