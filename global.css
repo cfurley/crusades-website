@@ -35,7 +35,7 @@ aside {
 
 footer {
   grid-area: footer;
-  background-color: blue;
+  background-color: brown;
   text-align: center;
   margin-top: 3rem;
   a {
