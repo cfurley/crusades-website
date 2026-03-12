@@ -6,16 +6,15 @@ body {
   grid-template-columns: 3fr 1fr;
   grid-template-areas:
     "header header"
+    "image image"
     "main aside"
     "footer footer";
 }
 
 .header {
   grid-area: header;
-  background-color: blue;
   text-align: center;
-  section {
-    background-color: brown;
+  background-color: brown;
   padding: 1rem;
   h1 {
     color: azure;
@@ -23,6 +22,12 @@ body {
   a {
     color: greenyellow;
   }
+}
+
+.image {
+  grid-area: image;
+  padding-top: 1.1rem;
+  padding-bottom: 1.1rem;
 }
 
 .main {
