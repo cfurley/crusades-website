@@ -2,6 +2,8 @@
 
 <img src="./images/_website_screenshot.png" alt="Screenshot of the website">
 
+<a href="cfurley/github.io/crusades-website">🌐 cfurley/github.io/crusades-website</a>
+
 ## Overview
 
 This is my class project for HIST 3953 "The Modern Middle East" from the University of Oklahoma...
