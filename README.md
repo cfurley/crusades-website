@@ -1,7 +1,6 @@
 # Crusades Impact of the Levant (source)
 
-<img src="" alt="Screenshot of the website">
-<a href="">cfurley/github.io/crusades</a>
+<img src="./images/_website_screenshot.png" alt="Screenshot of the website">
 
 ## Overview
 
