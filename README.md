@@ -2,7 +2,7 @@
 
 <img src="./images/_website_screenshot.png" alt="Screenshot of the website">
 
-<a href="cfurley/github.io/crusades-website">🌐 cfurley/github.io/crusades-website</a>
+<a href="cfurley.github.io/crusades-website">🌐 cfurley/github.io/crusades-website</a>
 
 ## Overview
 
