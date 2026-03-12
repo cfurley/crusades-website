@@ -14,6 +14,8 @@ header {
   grid-area: header;
   background-color: blue;
   text-align: center;
+  section {
+    background-color: brown;
   padding: 1rem;
   h1 {
     color: azure;
