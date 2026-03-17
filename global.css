@@ -45,6 +45,15 @@ body {
 
 .main {
   grid-area: main;
+  background-color: rgb(111, 13, 13);
+  padding-right: 1.1rem;
+  padding-left: 1.1rem;
+  a {
+    color: goldenrod;
+  }
+  p {
+    color: silver;
+  }
 }
 
 .aside {
