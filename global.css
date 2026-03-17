@@ -20,7 +20,7 @@ body {
 .header {
   grid-area: header;
   text-align: center;
-  background-color: brown;
+  background-color: rgb(111, 13, 13);
   padding: 1rem;
   h1 {
     color: gold;
@@ -71,7 +71,7 @@ body {
 
 .footer {
   grid-area: footer;
-  background-color: brown;
+  background-color: rgb(111, 13, 13);
   text-align: center;
   margin-top: 2rem;
   a {
