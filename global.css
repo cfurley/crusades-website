@@ -26,10 +26,13 @@ body {
   background-color: brown;
   padding: 1rem;
   h1 {
-    color: azure;
+    color: gold;
   }
-  a {
-    color: greenyellow;
+  nav {
+    color: goldenrod;
+    a {
+      color: silver;
+    }
   }
 }
 
