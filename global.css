@@ -64,8 +64,8 @@ body {
   grid-area: footer;
   background-color: brown;
   text-align: center;
-  margin-top: 3rem;
+  margin-top: 2rem;
   a {
-    color: white;
+    color: darkgoldenrod;
   }
 }
