@@ -1,20 +1,13 @@
 * {
-  font-family: "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 body {
-  background-color: tan;
+  background-color: rgb(222, 189, 148);
   padding-top: 1.1rem;
   padding-bottom: 1.1rem;
-  max-width: 77vw;
+  max-width: 90vw;
   margin: 0 auto;
-  display: grid;
-  grid-template-columns: 3fr 1fr;
-  grid-template-areas:
-    "header header"
-    "image image"
-    "main aside"
-    "footer footer";
 }
 
 .header {
@@ -28,6 +21,9 @@ body {
   nav {
     color: rgb(124, 91, 8);
     a {
+      color: goldenrod;
+    }
+    #selected {
       color: gold;
     }
   }
@@ -35,8 +31,7 @@ body {
 
 .image {
   grid-area: image;
-  padding-top: 1.1rem;
-  padding-bottom: 1.1rem;
+  margin-top: 1.1rem;
   text-align: center;
   img {
     max-width: 100%;
@@ -49,31 +44,11 @@ body {
   background-color: rgb(77, 7, 7);
   padding-right: 1.1rem;
   padding-left: 1.1rem;
-  margin-right: 1.1rem;
   a {
-    color: gold;
+    color: goldenrod;
   }
   p {
     color: silver;
-  }
-}
-
-.aside {
-  grid-area: aside;
-  background-color: rgb(77, 7, 7);
-  padding-right: 1.1rem;
-  padding-left: 1.1rem;
-  a {
-    color: gold;
-  }
-  h4 {
-    color: silver;
-    text-align: center;
-  }
-  ul {
-    list-style: none;
-    padding-left: 0;
-    text-align: left;
   }
 }
 
@@ -83,6 +58,6 @@ body {
   text-align: center;
   margin-top: 2rem;
   a {
-    color: gold;
+    color: goldenrod;
   }
 }
