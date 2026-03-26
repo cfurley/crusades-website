@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image: radial-gradient(rgb(222, 199, 164), rgb(56, 10, 5));
+  background-color: tan;
   padding-top: 1.1rem;
   padding-bottom: 1.1rem;
   max-width: 77vw;
@@ -28,7 +28,7 @@ body {
   nav {
     color: rgb(124, 91, 8);
     a {
-      color: goldenrod;
+      color: gold;
     }
   }
 }
@@ -51,7 +51,7 @@ body {
   padding-left: 1.1rem;
   margin-right: 1.1rem;
   a {
-    color: darkgoldenrod;
+    color: gold;
   }
   p {
     color: silver;
@@ -64,7 +64,7 @@ body {
   padding-right: 1.1rem;
   padding-left: 1.1rem;
   a {
-    color: darkgoldenrod;
+    color: gold;
   }
   h4 {
     color: silver;
@@ -83,6 +83,6 @@ body {
   text-align: center;
   margin-top: 2rem;
   a {
-    color: darkgoldenrod;
+    color: gold;
   }
 }
