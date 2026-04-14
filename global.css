@@ -54,6 +54,11 @@ p {
   color: silver;
 }
 
+img {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .hanging-indent {
   padding-left: 22px;
   text-indent: -22px;
