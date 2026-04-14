@@ -71,6 +71,19 @@ img {
   text-indent: -22px;
 }
 
+.sidebar-did-you-know {
+  color: goldenrod;
+  padding: 1rem;
+}
+
+.sidebar-images {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 /* desktop viewport */
 @media (min-width: 800px) {
   body {
