@@ -82,9 +82,6 @@ img {
 
 /* mobile viewport */
 @media (max-width: 900px) {
-  * {
-    width: 100%;
-  }
   body {
     display: flex;
     flex-direction: column;
