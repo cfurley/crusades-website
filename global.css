@@ -41,7 +41,6 @@ aside {
 main {
   grid-area: main;
   text-align: left;
-  background-color: black;
 }
 
 footer {
