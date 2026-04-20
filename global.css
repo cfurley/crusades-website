@@ -40,7 +40,7 @@ aside {
 main {
   grid-area: main;
   text-align: left;
-  background-color: rgba(0,0,0, 0.7);
+  background-color: rgba(0,0,0, 0.8);
   padding: 1rem;
   border-radius: 10px;
   margin: 0.5rem;
