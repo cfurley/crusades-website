@@ -1,7 +1,5 @@
 # Crusades Impact of the Levant (source)
 
-<img src="./images/NedstrynKirkeAltar-c1300.jpg" alt="Screenshot of the website">
-
 <a href="https://cfurley.github.io/crusades-website">🌐 cfurley/github.io/crusades-website</a>
 
 ## Overview
